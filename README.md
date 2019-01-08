@@ -5,5 +5,5 @@ Demo project that uses python and Nasa data to find meteor landing sites
 first, install pipenv. Then:
 '''
 pipenv install
-pipenv run "Python  find_meteors.py"
+pipenv run "Python  meteors/find_meteors.py"
 '''
